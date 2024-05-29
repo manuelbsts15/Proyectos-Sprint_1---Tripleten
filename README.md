@@ -1,2 +1,1 @@
-# Proyectos-Tripleten
-Proyectos realizados durante el bootcamp
+# Proyectos-Sprint 1 - Tripleten
